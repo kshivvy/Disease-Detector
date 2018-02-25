@@ -27,6 +27,9 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,
@@ -38,6 +41,7 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
     private Location lastLocation;
     private Marker currentLocationMarker;
     public static final int REQUEST_LOCATION_CODE = 99;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -98,6 +102,8 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
 
             buildGoogleApiClient();
             mMap.setMyLocationEnabled(true);
+            /* Add function for adding markers */
+
         }
 
     }
@@ -123,10 +129,19 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
         LatLng latLng = new LatLng(location.getLatitude(), location.getLongitude());
         MarkerOptions markerOptions = new MarkerOptions();
         markerOptions.position(latLng);
-        markerOptions.title("Current Location");
+        //markerOptions.title("Current Location");
+        markerOptions.snippet("The food here sucks.\nJK it ain't that bad...");
         markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE));
 
         currentLocationMarker = mMap.addMarker(markerOptions);
+
+        LatLng latLng2 = new LatLng(location.getLatitude()+5, location.getLongitude()+5);
+        MarkerOptions markerOptions2 = new MarkerOptions();
+        markerOptions2.position(latLng2);
+        markerOptions2.title("Current Location 2");
+        markerOptions2.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_RED));
+
+        currentLocationMarker = mMap.addMarker(markerOptions2);
 
         mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
         mMap.animateCamera(CameraUpdateFactory.zoomBy(10));
@@ -136,6 +151,22 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
         }
 
     }
+
+    private final List<MarkerOptions> markerList = new ArrayList<MarkerOptions>();
+    //private final LatLng base = new LatLng(40.109945, -88.221093);
+    private final float base = 10;
+    private final double baseLng = -88.221093;
+
+    private void addMarkersToMap(){
+        int numMarkers = 10;
+        for(int i = 0; i < numMarkers; i++){
+            MarkerOptions marker = new MarkerOptions();
+
+
+            markerList.add(marker);
+        }
+    }
+
 
     @Override
     public void onConnected(@Nullable Bundle bundle) {
@@ -181,3 +212,4 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
 
     }
 }
+
