@@ -26,14 +26,16 @@ import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
-
+import com.google.android.gms.maps.GoogleMap.InfoWindowAdapter;
 import java.util.ArrayList;
 import java.util.List;
+
+import android.view.View;
 
 public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener,
-        LocationListener {
+        LocationListener{
 
     private GoogleMap mMap;
     private GoogleApiClient client;
@@ -42,7 +44,39 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
     private Marker currentLocationMarker;
     public static final int REQUEST_LOCATION_CODE = 99;
 
+    /*class CustomInfoWindowAdapter implements InfoWindowAdapter {
 
+        // These are both viewgroups containing an ImageView with id "badge" and two TextViews with id
+        // "title" and "snippet".
+        private final View mWindow;
+
+        private final View mContents;
+
+        CustomInfoWindowAdapter() {
+            mWindow = getLayoutInflater().inflate(R.layout.custom_info_window, null);
+            mContents = getLayoutInflater().inflate(R.layout.custom_info_contents, null);
+        }
+
+        @Override
+        public View getInfoWindow(Marker marker) {
+            if (mOptions.getCheckedRadioButtonId() != R.id.custom_info_window) {
+                // This means that getInfoContents will be called.
+                return null;
+            }
+            render(marker, mWindow);
+            return mWindow;
+        }
+
+        @Override
+        public View getInfoContents(Marker marker) {
+            if (mOptions.getCheckedRadioButtonId() != R.id.custom_info_contents) {
+                // This means that the default info contents will be used.
+                return null;
+            }
+            render(marker, mContents);
+            return mContents;
+        }
+    } */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -102,7 +136,7 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
 
             buildGoogleApiClient();
             mMap.setMyLocationEnabled(true);
-            /* Add function for adding markers */
+            addMarkersToMap();
 
         }
 
@@ -129,8 +163,7 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
         LatLng latLng = new LatLng(location.getLatitude(), location.getLongitude());
         MarkerOptions markerOptions = new MarkerOptions();
         markerOptions.position(latLng);
-        //markerOptions.title("Current Location");
-        markerOptions.snippet("The food here sucks.\nJK it ain't that bad...");
+        markerOptions.title("Current Location");
         markerOptions.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ORANGE));
 
         currentLocationMarker = mMap.addMarker(markerOptions);
@@ -154,16 +187,19 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
 
     private final List<MarkerOptions> markerList = new ArrayList<MarkerOptions>();
     //private final LatLng base = new LatLng(40.109945, -88.221093);
-    private final float base = 10;
+    private final double baseLat = 40.109945;
     private final double baseLng = -88.221093;
 
     private void addMarkersToMap(){
         int numMarkers = 10;
         for(int i = 0; i < numMarkers; i++){
             MarkerOptions marker = new MarkerOptions();
-
-
+            LatLng position = new LatLng(baseLat + (0.0001*i), baseLng + (0.0001*i));
+            marker.position(position);
+            marker.title("Marker" + i);
+            marker.icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_ROSE));
             markerList.add(marker);
+            mMap.addMarker(marker);
         }
     }
 
@@ -211,5 +247,6 @@ public class DiseaseMap extends FragmentActivity implements OnMapReadyCallback,
     public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
 
     }
+
 }
 
