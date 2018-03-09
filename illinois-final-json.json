@@ -1,0 +1,4902 @@
+[
+    {
+        "date": "Fri Mar 09 01:36:22 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VissAndPinegar"
+    }, 
+    {
+        "date": "Fri Mar 09 01:34:30 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lizziestarrdust"
+    }, 
+    {
+        "date": "Fri Mar 09 01:30:48 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JKouretsos"
+    }, 
+    {
+        "date": "Fri Mar 09 01:28:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7014389, 
+        "lng": -90.14871989999999, 
+        "tweetHandle": "@jack_rainey"
+    }, 
+    {
+        "date": "Fri Mar 09 01:25:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.325578, 
+        "lng": -87.8411818, 
+        "tweetHandle": "@Varshayy"
+    }, 
+    {
+        "date": "Fri Mar 09 01:12:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8897519, 
+        "lng": -87.98895429999999, 
+        "tweetHandle": "@CaleMom"
+    }, 
+    {
+        "date": "Fri Mar 09 01:08:06 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TristanChiru"
+    }, 
+    {
+        "date": "Fri Mar 09 00:53:31 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MichelettoPatty"
+    }, 
+    {
+        "date": "Fri Mar 09 00:48:14 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.2711311, 
+        "lng": -89.0939952, 
+        "tweetHandle": "@Riquestradamus"
+    }, 
+    {
+        "date": "Fri Mar 09 00:43:53 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Haberdasher9k"
+    }, 
+    {
+        "date": "Fri Mar 09 00:24:33 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@Lika_Luscious"
+    }, 
+    {
+        "date": "Fri Mar 09 00:24:14 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 42.2711311, 
+        "lng": -89.0939952, 
+        "tweetHandle": "@tattufreak"
+    }, 
+    {
+        "date": "Fri Mar 09 00:14:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8347535, 
+        "lng": -87.86172599999999, 
+        "tweetHandle": "@annnixo"
+    }, 
+    {
+        "date": "Fri Mar 09 00:10:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.6703266, 
+        "lng": -89.9845476, 
+        "tweetHandle": "@euphoricwow"
+    }, 
+    {
+        "date": "Thu Mar 08 23:46:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.95001, 
+        "lng": -87.658957, 
+        "tweetHandle": "@flipbin2000"
+    }, 
+    {
+        "date": "Thu Mar 08 23:46:04 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.9950276, 
+        "lng": -88.1856301, 
+        "tweetHandle": "@abijails_vega"
+    }, 
+    {
+        "date": "Thu Mar 08 23:26:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@wp103AD_AP"
+    }, 
+    {
+        "date": "Thu Mar 08 23:07:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7244997, 
+        "lng": -89.9572444, 
+        "tweetHandle": "@satangoat69"
+    }, 
+    {
+        "date": "Thu Mar 08 23:03:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshtonTregoning"
+    }, 
+    {
+        "date": "Thu Mar 08 22:48:38 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Haberdasher9k"
+    }, 
+    {
+        "date": "Thu Mar 08 22:43:27 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Prestonnorm"
+    }, 
+    {
+        "date": "Thu Mar 08 22:41:28 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@FilthyDreamWrks"
+    }, 
+    {
+        "date": "Thu Mar 08 22:32:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@RatedBaton99"
+    }, 
+    {
+        "date": "Thu Mar 08 22:16:29 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@SESvince"
+    }, 
+    {
+        "date": "Thu Mar 08 22:05:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Kristy182ava"
+    }, 
+    {
+        "date": "Thu Mar 08 21:11:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@Lika_Luscious"
+    }, 
+    {
+        "date": "Thu Mar 08 20:57:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@allidebona"
+    }, 
+    {
+        "date": "Thu Mar 08 20:53:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@_kingneal"
+    }, 
+    {
+        "date": "Thu Mar 08 20:42:33 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1655801, 
+        "lng": -88.29424929999999, 
+        "tweetHandle": "@chaostolaughter"
+    }, 
+    {
+        "date": "Thu Mar 08 20:30:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.1103041, 
+        "lng": -88.03424000000001, 
+        "tweetHandle": "@michalinak19"
+    }, 
+    {
+        "date": "Thu Mar 08 20:22:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@D_D_D_D_DUEL"
+    }, 
+    {
+        "date": "Thu Mar 08 20:11:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@dana_bolin14"
+    }, 
+    {
+        "date": "Thu Mar 08 20:08:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1105875, 
+        "lng": -88.2072697, 
+        "tweetHandle": "@Holden2283"
+    }, 
+    {
+        "date": "Thu Mar 08 19:50:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Haberdasher9k"
+    }, 
+    {
+        "date": "Thu Mar 08 19:46:08 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lovebrookieee"
+    }, 
+    {
+        "date": "Thu Mar 08 19:37:15 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@chrxstianh__"
+    }, 
+    {
+        "date": "Thu Mar 08 19:13:51 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@Woodcat0214"
+    }, 
+    {
+        "date": "Thu Mar 08 18:57:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@latinapalida"
+    }, 
+    {
+        "date": "Thu Mar 08 18:44:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ErikaXelhua"
+    }, 
+    {
+        "date": "Thu Mar 08 18:41:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@xceeceee"
+    }, 
+    {
+        "date": "Thu Mar 08 18:40:56 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1680796, 
+        "lng": -88.4281415, 
+        "tweetHandle": "@cubfan2017"
+    }, 
+    {
+        "date": "Thu Mar 08 18:29:47 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.94781580000001, 
+        "lng": -90.3712395, 
+        "tweetHandle": "@LaurynCampbell2"
+    }, 
+    {
+        "date": "Thu Mar 08 18:25:52 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@__drakdevil__"
+    }, 
+    {
+        "date": "Thu Mar 08 18:20:37 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@GIRARDisGOD"
+    }, 
+    {
+        "date": "Thu Mar 08 18:11:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@chefbrotherluck"
+    }, 
+    {
+        "date": "Thu Mar 08 18:03:14 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@trashbagdaddy"
+    }, 
+    {
+        "date": "Thu Mar 08 17:54:57 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@RealParkerJ"
+    }, 
+    {
+        "date": "Thu Mar 08 17:52:12 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AlenaMaschke"
+    }, 
+    {
+        "date": "Thu Mar 08 17:45:23 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jennawhalen"
+    }, 
+    {
+        "date": "Thu Mar 08 17:43:02 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshtonTregoning"
+    }, 
+    {
+        "date": "Thu Mar 08 17:42:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@LuvPeaceCouture"
+    }, 
+    {
+        "date": "Thu Mar 08 17:41:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@kileylynndecker"
+    }, 
+    {
+        "date": "Thu Mar 08 17:40:25 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@KEEPlTMOVlNG"
+    }, 
+    {
+        "date": "Thu Mar 08 17:38:50 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@KayeeRoddd_"
+    }, 
+    {
+        "date": "Thu Mar 08 17:36:55 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.6475306, 
+        "lng": -88.0895061, 
+        "tweetHandle": "@DarknTwistie"
+    }, 
+    {
+        "date": "Thu Mar 08 17:36:41 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AmjadHu40626376"
+    }, 
+    {
+        "date": "Thu Mar 08 17:35:51 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 42.0039178, 
+        "lng": -87.9703461, 
+        "tweetHandle": "@hmashh_7"
+    }, 
+    {
+        "date": "Thu Mar 08 17:35:28 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Kubie_Qb"
+    }, 
+    {
+        "date": "Thu Mar 08 17:34:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0189191, 
+        "lng": -87.80284019999999, 
+        "tweetHandle": "@JourneyofMerl"
+    }, 
+    {
+        "date": "Thu Mar 08 17:25:01 +0000 2018", 
+        "keywords": "fever,aches,headache", 
+        "lat": 41.9005865, 
+        "lng": -87.8567276, 
+        "tweetHandle": "@khalifaboa"
+    }, 
+    {
+        "date": "Thu Mar 08 17:04:08 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@olivegarden666"
+    }, 
+    {
+        "date": "Thu Mar 08 16:52:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@KAOrman"
+    }, 
+    {
+        "date": "Thu Mar 08 16:35:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@KoVuMusic"
+    }, 
+    {
+        "date": "Thu Mar 08 16:21:19 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@aaleahmonique"
+    }, 
+    {
+        "date": "Thu Mar 08 16:02:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0450722, 
+        "lng": -87.68769689999999, 
+        "tweetHandle": "@Zulkey"
+    }, 
+    {
+        "date": "Thu Mar 08 15:58:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@magssz_"
+    }, 
+    {
+        "date": "Thu Mar 08 15:57:21 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ProbCause"
+    }, 
+    {
+        "date": "Thu Mar 08 15:56:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@alexismoky6"
+    }, 
+    {
+        "date": "Thu Mar 08 15:53:39 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5189226, 
+        "lng": -87.8031048, 
+        "tweetHandle": "@danielleiswoe"
+    }, 
+    {
+        "date": "Thu Mar 08 15:44:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0324025, 
+        "lng": -87.7416246, 
+        "tweetHandle": "@immadropdead"
+    }, 
+    {
+        "date": "Thu Mar 08 15:40:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HaikuFest"
+    }, 
+    {
+        "date": "Thu Mar 08 15:24:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Money_nique"
+    }, 
+    {
+        "date": "Thu Mar 08 15:23:26 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@WalksWithLenny"
+    }, 
+    {
+        "date": "Thu Mar 08 15:07:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@laay_nuh"
+    }, 
+    {
+        "date": "Thu Mar 08 15:06:51 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HannahLong3"
+    }, 
+    {
+        "date": "Thu Mar 08 15:00:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1105875, 
+        "lng": -88.2072697, 
+        "tweetHandle": "@Ashhhhlayyy"
+    }, 
+    {
+        "date": "Thu Mar 08 14:46:04 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshleeCartier"
+    }, 
+    {
+        "date": "Thu Mar 08 14:41:19 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@hxxdrvt_pvt_"
+    }, 
+    {
+        "date": "Thu Mar 08 14:36:53 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.4789097, 
+        "lng": -87.8236841, 
+        "tweetHandle": "@SillyJilly530"
+    }, 
+    {
+        "date": "Thu Mar 08 14:32:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@kaleifornia"
+    }, 
+    {
+        "date": "Thu Mar 08 14:20:08 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.801141, 
+        "lng": -88.0747875, 
+        "tweetHandle": "@JasmaW_"
+    }, 
+    {
+        "date": "Thu Mar 08 14:18:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Natalie85810347"
+    }, 
+    {
+        "date": "Thu Mar 08 13:54:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ariiivaz"
+    }, 
+    {
+        "date": "Thu Mar 08 13:45:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@sparkstack"
+    }, 
+    {
+        "date": "Thu Mar 08 13:26:05 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ellynfortino"
+    }, 
+    {
+        "date": "Thu Mar 08 13:24:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.4700348, 
+        "lng": -87.636432, 
+        "tweetHandle": "@supertino1467"
+    }, 
+    {
+        "date": "Thu Mar 08 13:02:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.931696, 
+        "lng": -87.9889556, 
+        "tweetHandle": "@APoreda3"
+    }, 
+    {
+        "date": "Thu Mar 08 12:47:55 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@nascent_dreams"
+    }, 
+    {
+        "date": "Thu Mar 08 12:33:10 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.9750287, 
+        "lng": -88.0072909, 
+        "tweetHandle": "@Iamalaxmom"
+    }, 
+    {
+        "date": "Thu Mar 08 12:31:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TravisHague"
+    }, 
+    {
+        "date": "Thu Mar 08 12:24:41 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JusBGold27"
+    }, 
+    {
+        "date": "Thu Mar 08 12:24:02 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JusBGold27"
+    }, 
+    {
+        "date": "Thu Mar 08 12:03:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshtonTregoning"
+    }, 
+    {
+        "date": "Thu Mar 08 12:01:46 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.0953144, 
+        "lng": -87.6475212, 
+        "tweetHandle": "@deanthurman9"
+    }, 
+    {
+        "date": "Thu Mar 08 11:56:14 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@colee_slaw"
+    }, 
+    {
+        "date": "Thu Mar 08 11:50:26 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 42.0039178, 
+        "lng": -87.9703461, 
+        "tweetHandle": "@Giom43"
+    }, 
+    {
+        "date": "Thu Mar 08 11:05:27 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Ihatejxhnny"
+    }, 
+    {
+        "date": "Thu Mar 08 09:15:08 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshtonTregoning"
+    }, 
+    {
+        "date": "Thu Mar 08 09:11:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@_Kayla2x"
+    }, 
+    {
+        "date": "Thu Mar 08 07:51:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7500323, 
+        "lng": -87.80422159999999, 
+        "tweetHandle": "@that_boi_barnie"
+    }, 
+    {
+        "date": "Thu Mar 08 07:22:41 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.357254, 
+        "lng": -88.4211785, 
+        "tweetHandle": "@tous2005"
+    }, 
+    {
+        "date": "Thu Mar 08 06:36:58 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@SunflowerBlvd_"
+    }, 
+    {
+        "date": "Thu Mar 08 06:26:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@jayykardash"
+    }, 
+    {
+        "date": "Thu Mar 08 06:07:52 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@BillPrus"
+    }, 
+    {
+        "date": "Thu Mar 08 06:02:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@4ryss4"
+    }, 
+    {
+        "date": "Thu Mar 08 05:56:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.6350501, 
+        "lng": -90.0928852, 
+        "tweetHandle": "@UtzmanPatricia"
+    }, 
+    {
+        "date": "Thu Mar 08 05:45:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6303103, 
+        "lng": -87.85394250000002, 
+        "tweetHandle": "@epocza"
+    }, 
+    {
+        "date": "Thu Mar 08 05:40:23 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6572562, 
+        "lng": -87.68004859999999, 
+        "tweetHandle": "@BlueIslandPadre"
+    }, 
+    {
+        "date": "Thu Mar 08 05:34:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@lmwillson"
+    }, 
+    {
+        "date": "Thu Mar 08 05:21:17 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@Just_Nancyy"
+    }, 
+    {
+        "date": "Thu Mar 08 05:20:28 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@Joshlamou"
+    }, 
+    {
+        "date": "Thu Mar 08 04:58:35 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8994744, 
+        "lng": -87.9403418, 
+        "tweetHandle": "@verballyvalli"
+    }, 
+    {
+        "date": "Thu Mar 08 04:51:55 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@Zingzangboom"
+    }, 
+    {
+        "date": "Thu Mar 08 04:44:18 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@AmyaWaya"
+    }, 
+    {
+        "date": "Thu Mar 08 04:43:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@sjkop"
+    }, 
+    {
+        "date": "Thu Mar 08 04:39:48 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8089191, 
+        "lng": -88.01117459999999, 
+        "tweetHandle": "@SchauerNiji"
+    }, 
+    {
+        "date": "Thu Mar 08 04:34:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@sam_samuel20"
+    }, 
+    {
+        "date": "Thu Mar 08 04:27:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@everysince96"
+    }, 
+    {
+        "date": "Thu Mar 08 04:19:57 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@latinapalida"
+    }, 
+    {
+        "date": "Thu Mar 08 04:19:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Natalie85810347"
+    }, 
+    {
+        "date": "Thu Mar 08 04:17:35 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5647575, 
+        "lng": -87.53893099999999, 
+        "tweetHandle": "@thatbekaylaaa"
+    }, 
+    {
+        "date": "Thu Mar 08 04:09:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0841936, 
+        "lng": -88.0131275, 
+        "tweetHandle": "@ohhaycassiek"
+    }, 
+    {
+        "date": "Thu Mar 08 03:53:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@caira_williams"
+    }, 
+    {
+        "date": "Thu Mar 08 03:53:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AmiyaMarshe"
+    }, 
+    {
+        "date": "Thu Mar 08 03:50:47 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@caira_williams"
+    }, 
+    {
+        "date": "Thu Mar 08 03:42:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.5200504, 
+        "lng": -89.9839935, 
+        "tweetHandle": "@jay__froze"
+    }, 
+    {
+        "date": "Thu Mar 08 03:31:47 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@holythroat"
+    }, 
+    {
+        "date": "Thu Mar 08 03:18:46 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0450722, 
+        "lng": -87.68769689999999, 
+        "tweetHandle": "@smalladi"
+    }, 
+    {
+        "date": "Thu Mar 08 03:17:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.3083672, 
+        "lng": -88.1558785, 
+        "tweetHandle": "@errriiikkka"
+    }, 
+    {
+        "date": "Thu Mar 08 03:14:18 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@kaylastinson_"
+    }, 
+    {
+        "date": "Thu Mar 08 03:12:01 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@KayWinning___"
+    }, 
+    {
+        "date": "Thu Mar 08 03:11:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8347535, 
+        "lng": -87.86172599999999, 
+        "tweetHandle": "@AmieMartinRN"
+    }, 
+    {
+        "date": "Thu Mar 08 02:55:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@Diaryof_mb"
+    }, 
+    {
+        "date": "Thu Mar 08 02:46:52 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@GreenEyed_Soup"
+    }, 
+    {
+        "date": "Thu Mar 08 02:32:45 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.9994722, 
+        "lng": -88.1450735, 
+        "tweetHandle": "@AndolinoMark"
+    }, 
+    {
+        "date": "Thu Mar 08 02:20:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@yennahahaha"
+    }, 
+    {
+        "date": "Thu Mar 08 02:18:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.4133505, 
+        "lng": -89.0092741, 
+        "tweetHandle": "@vlanamunoz"
+    }, 
+    {
+        "date": "Thu Mar 08 02:15:49 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7444765, 
+        "lng": -87.8378337, 
+        "tweetHandle": "@maxinewoodard53"
+    }, 
+    {
+        "date": "Thu Mar 08 02:13:23 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@WedontgetTyler"
+    }, 
+    {
+        "date": "Thu Mar 08 02:12:19 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MariePAnderson"
+    }, 
+    {
+        "date": "Thu Mar 08 02:10:11 +0000 2018", 
+        "keywords": "sick,cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Thu Mar 08 02:09:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3472406, 
+        "lng": -89.03899559999999, 
+        "tweetHandle": "@thorton52"
+    }, 
+    {
+        "date": "Thu Mar 08 02:06:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.78172130000001, 
+        "lng": -89.6501481, 
+        "tweetHandle": "@anissaweber9"
+    }, 
+    {
+        "date": "Thu Mar 08 02:01:30 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VirtuousCardi"
+    }, 
+    {
+        "date": "Thu Mar 08 02:01:30 +0000 2018", 
+        "keywords": "sick,fever", 
+        "lat": 41.9435601, 
+        "lng": -87.6583642, 
+        "tweetHandle": "@Daneuntamed"
+    }, 
+    {
+        "date": "Thu Mar 08 01:59:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@AddayaMoore"
+    }, 
+    {
+        "date": "Thu Mar 08 01:53:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VirtuousCardi"
+    }, 
+    {
+        "date": "Thu Mar 08 01:46:30 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Elsaisfabulous"
+    }, 
+    {
+        "date": "Thu Mar 08 01:46:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@ncaldwell21"
+    }, 
+    {
+        "date": "Thu Mar 08 01:44:55 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Tamaralynn212"
+    }, 
+    {
+        "date": "Thu Mar 08 01:41:28 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@sarahbisland42"
+    }, 
+    {
+        "date": "Thu Mar 08 01:34:40 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@kasso29"
+    }, 
+    {
+        "date": "Thu Mar 08 01:29:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9847504, 
+        "lng": -88.07979329999999, 
+        "tweetHandle": "@FlowerOfSilver"
+    }, 
+    {
+        "date": "Thu Mar 08 01:22:26 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@koreanchiq"
+    }, 
+    {
+        "date": "Thu Mar 08 01:14:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ThisDerekHauk"
+    }, 
+    {
+        "date": "Thu Mar 08 01:11:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@23theRealRandy"
+    }, 
+    {
+        "date": "Thu Mar 08 01:04:26 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ObeyDlaw"
+    }, 
+    {
+        "date": "Thu Mar 08 01:04:02 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.9941938, 
+        "lng": -88.29229959999999, 
+        "tweetHandle": "@Cayleehowell"
+    }, 
+    {
+        "date": "Thu Mar 08 01:01:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jamesabloom"
+    }, 
+    {
+        "date": "Thu Mar 08 00:53:31 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.6303103, 
+        "lng": -87.85394250000002, 
+        "tweetHandle": "@MeggyMcCasland"
+    }, 
+    {
+        "date": "Thu Mar 08 00:47:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5428123, 
+        "lng": -87.6847684, 
+        "tweetHandle": "@zeeskee"
+    }, 
+    {
+        "date": "Thu Mar 08 00:46:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@innerfriend_"
+    }, 
+    {
+        "date": "Thu Mar 08 00:43:36 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@mayags"
+    }, 
+    {
+        "date": "Thu Mar 08 00:14:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@azogal7"
+    }, 
+    {
+        "date": "Thu Mar 08 00:06:51 +0000 2018", 
+        "keywords": "cold", 
+        "lat": 41.8897519, 
+        "lng": -87.98895429999999, 
+        "tweetHandle": "@CaleMom"
+    }, 
+    {
+        "date": "Thu Mar 08 00:05:50 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7697533, 
+        "lng": -87.9358931, 
+        "tweetHandle": "@redjuly7"
+    }, 
+    {
+        "date": "Wed Mar 07 23:58:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@LickMyPiercings"
+    }, 
+    {
+        "date": "Wed Mar 07 23:49:48 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ChicagoPenguin2"
+    }, 
+    {
+        "date": "Wed Mar 07 23:49:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lisa_taylor"
+    }, 
+    {
+        "date": "Wed Mar 07 23:40:35 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@LuvPeaceCouture"
+    }, 
+    {
+        "date": "Wed Mar 07 23:37:17 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@dymplez38"
+    }, 
+    {
+        "date": "Wed Mar 07 23:36:39 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@eclextic"
+    }, 
+    {
+        "date": "Wed Mar 07 23:35:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AyyeBee"
+    }, 
+    {
+        "date": "Wed Mar 07 23:32:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.5708849, 
+        "lng": -90.1901113, 
+        "tweetHandle": "@mellaxox23"
+    }, 
+    {
+        "date": "Wed Mar 07 23:23:06 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@hannahrabatin"
+    }, 
+    {
+        "date": "Wed Mar 07 23:12:20 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.6828074, 
+        "lng": -88.35145960000001, 
+        "tweetHandle": "@shellliebellie"
+    }, 
+    {
+        "date": "Wed Mar 07 22:40:08 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshtonTregoning"
+    }, 
+    {
+        "date": "Wed Mar 07 22:28:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@you_mf_right"
+    }, 
+    {
+        "date": "Wed Mar 07 22:23:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5067003, 
+        "lng": -90.51513419999999, 
+        "tweetHandle": "@katrina_vroman"
+    }, 
+    {
+        "date": "Wed Mar 07 22:12:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@mags2x"
+    }, 
+    {
+        "date": "Wed Mar 07 21:33:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8786351, 
+        "lng": -87.6250549, 
+        "tweetHandle": "@aarond"
+    }, 
+    {
+        "date": "Wed Mar 07 21:08:45 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ChiFairDeal"
+    }, 
+    {
+        "date": "Wed Mar 07 20:54:48 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MarkusCrane"
+    }, 
+    {
+        "date": "Wed Mar 07 20:49:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@FridaGonzalez__"
+    }, 
+    {
+        "date": "Wed Mar 07 20:39:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.263079, 
+        "lng": -88.00396529999999, 
+        "tweetHandle": "@msnastynut"
+    }, 
+    {
+        "date": "Wed Mar 07 20:22:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Rico_mrtattoo1"
+    }, 
+    {
+        "date": "Wed Mar 07 20:01:33 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@funkmasterMel"
+    }, 
+    {
+        "date": "Wed Mar 07 20:00:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Rosyjc"
+    }, 
+    {
+        "date": "Wed Mar 07 19:56:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JohnSmithChgo"
+    }, 
+    {
+        "date": "Wed Mar 07 19:48:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Libby_Wap1"
+    }, 
+    {
+        "date": "Wed Mar 07 19:38:53 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9861619, 
+        "lng": -87.72679190000001, 
+        "tweetHandle": "@alimaaaa_"
+    }, 
+    {
+        "date": "Wed Mar 07 19:35:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1105875, 
+        "lng": -88.2072697, 
+        "tweetHandle": "@Ashhhhlayyy"
+    }, 
+    {
+        "date": "Wed Mar 07 19:35:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@JJBirdd"
+    }, 
+    {
+        "date": "Wed Mar 07 19:07:46 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@LickMyPiercings"
+    }, 
+    {
+        "date": "Wed Mar 07 19:02:03 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@uhleekuh"
+    }, 
+    {
+        "date": "Wed Mar 07 18:56:34 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5894752, 
+        "lng": -88.05783699999999, 
+        "tweetHandle": "@claudialeigh_"
+    }, 
+    {
+        "date": "Wed Mar 07 18:55:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@michaelhulisz"
+    }, 
+    {
+        "date": "Wed Mar 07 18:53:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@alliie_mac"
+    }, 
+    {
+        "date": "Wed Mar 07 18:53:10 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@robertbilljrPT"
+    }, 
+    {
+        "date": "Wed Mar 07 18:52:40 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@Randtastic"
+    }, 
+    {
+        "date": "Wed Mar 07 18:51:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.14197679999999, 
+        "lng": -87.8611535, 
+        "tweetHandle": "@lizkenealy"
+    }, 
+    {
+        "date": "Wed Mar 07 18:33:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8661403, 
+        "lng": -88.1070127, 
+        "tweetHandle": "@sampuzzo"
+    }, 
+    {
+        "date": "Wed Mar 07 18:20:23 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8775293, 
+        "lng": -88.0670118, 
+        "tweetHandle": "@Necoleeeee"
+    }, 
+    {
+        "date": "Wed Mar 07 18:14:54 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@mack_rooks"
+    }, 
+    {
+        "date": "Wed Mar 07 18:03:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8661403, 
+        "lng": -88.1070127, 
+        "tweetHandle": "@alisemirvine"
+    }, 
+    {
+        "date": "Wed Mar 07 17:56:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7641723, 
+        "lng": -87.7812524, 
+        "tweetHandle": "@cyclinggomez"
+    }, 
+    {
+        "date": "Wed Mar 07 17:55:30 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.5285169, 
+        "lng": -89.1316944, 
+        "tweetHandle": "@AshesLivex"
+    }, 
+    {
+        "date": "Wed Mar 07 17:49:57 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@reallyalondra"
+    }, 
+    {
+        "date": "Wed Mar 07 17:31:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.78172130000001, 
+        "lng": -89.6501481, 
+        "tweetHandle": "@anissaweber9"
+    }, 
+    {
+        "date": "Wed Mar 07 17:25:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MariePAnderson"
+    }, 
+    {
+        "date": "Wed Mar 07 17:20:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@PrivilegedVictm"
+    }, 
+    {
+        "date": "Wed Mar 07 17:04:35 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8987699, 
+        "lng": -87.6229168, 
+        "tweetHandle": "@domproz"
+    }, 
+    {
+        "date": "Wed Mar 07 17:04:12 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0664167, 
+        "lng": -87.9372908, 
+        "tweetHandle": "@Kimberlee711"
+    }, 
+    {
+        "date": "Wed Mar 07 17:04:10 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@jayykardash"
+    }, 
+    {
+        "date": "Wed Mar 07 17:03:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@thekimberlina"
+    }, 
+    {
+        "date": "Wed Mar 07 16:55:39 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@debphs5270"
+    }, 
+    {
+        "date": "Wed Mar 07 16:51:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0664167, 
+        "lng": -87.9372908, 
+        "tweetHandle": "@SeanStanglandDH"
+    }, 
+    {
+        "date": "Wed Mar 07 16:22:57 +0000 2018", 
+        "keywords": "sick,cough", 
+        "lat": 38.7244997, 
+        "lng": -89.9572444, 
+        "tweetHandle": "@KatieHereford"
+    }, 
+    {
+        "date": "Wed Mar 07 16:19:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@munsonsmith"
+    }, 
+    {
+        "date": "Wed Mar 07 15:25:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MasterHavik"
+    }, 
+    {
+        "date": "Wed Mar 07 15:23:32 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@GirlnFlux"
+    }, 
+    {
+        "date": "Wed Mar 07 15:22:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5428123, 
+        "lng": -87.6847684, 
+        "tweetHandle": "@vercindarella"
+    }, 
+    {
+        "date": "Wed Mar 07 15:08:58 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@rogiegould"
+    }, 
+    {
+        "date": "Wed Mar 07 15:06:55 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.5731442, 
+        "lng": -87.7932939, 
+        "tweetHandle": "@_YounqSimbaa"
+    }, 
+    {
+        "date": "Wed Mar 07 15:06:36 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@art_introvert"
+    }, 
+    {
+        "date": "Wed Mar 07 15:05:02 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.6828074, 
+        "lng": -88.35145960000001, 
+        "tweetHandle": "@shellliebellie"
+    }, 
+    {
+        "date": "Wed Mar 07 15:04:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6828074, 
+        "lng": -88.35145960000001, 
+        "tweetHandle": "@shellliebellie"
+    }, 
+    {
+        "date": "Wed Mar 07 14:53:48 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.5094771, 
+        "lng": -90.5787476, 
+        "tweetHandle": "@a_gant5"
+    }, 
+    {
+        "date": "Wed Mar 07 14:49:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@__AmirahM_"
+    }, 
+    {
+        "date": "Wed Mar 07 14:48:06 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8455877, 
+        "lng": -87.7539448, 
+        "tweetHandle": "@DrFridayNiteLts"
+    }, 
+    {
+        "date": "Wed Mar 07 14:36:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@klovanchicago"
+    }, 
+    {
+        "date": "Wed Mar 07 14:34:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@mikemint124"
+    }, 
+    {
+        "date": "Wed Mar 07 14:28:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0255827, 
+        "lng": -88.17840849999999, 
+        "tweetHandle": "@sosa_sammyyy"
+    }, 
+    {
+        "date": "Wed Mar 07 13:50:51 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VirgoJ24"
+    }, 
+    {
+        "date": "Wed Mar 07 13:21:01 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@None_Otha30"
+    }, 
+    {
+        "date": "Wed Mar 07 13:13:24 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.9222589, 
+        "lng": -89.48620249999999, 
+        "tweetHandle": "@moonlily333"
+    }, 
+    {
+        "date": "Wed Mar 07 13:07:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@SherryPie55"
+    }, 
+    {
+        "date": "Wed Mar 07 12:20:55 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7317158, 
+        "lng": -90.0803839, 
+        "tweetHandle": "@taylorstiller8"
+    }, 
+    {
+        "date": "Wed Mar 07 11:46:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5675388, 
+        "lng": -89.640658, 
+        "tweetHandle": "@BesimiBreanna"
+    }, 
+    {
+        "date": "Wed Mar 07 11:24:20 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.9933604, 
+        "lng": -88.00172219999999, 
+        "tweetHandle": "@JohnRDallasJr"
+    }, 
+    {
+        "date": "Wed Mar 07 10:36:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JETZIINTHESKY"
+    }, 
+    {
+        "date": "Wed Mar 07 09:57:01 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0841936, 
+        "lng": -88.0131275, 
+        "tweetHandle": "@_DonnaMoeller_"
+    }, 
+    {
+        "date": "Wed Mar 07 08:59:55 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@PACOLYLA"
+    }, 
+    {
+        "date": "Wed Mar 07 08:46:55 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 38.589773, 
+        "lng": -90.1201087, 
+        "tweetHandle": "@dan_londe"
+    }, 
+    {
+        "date": "Wed Mar 07 08:32:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@burnsie623"
+    }, 
+    {
+        "date": "Wed Mar 07 08:23:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.1662831, 
+        "lng": -87.9631308, 
+        "tweetHandle": "@clipperguy"
+    }, 
+    {
+        "date": "Wed Mar 07 07:45:26 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.931696, 
+        "lng": -87.9889556, 
+        "tweetHandle": "@kylegaddo"
+    }, 
+    {
+        "date": "Wed Mar 07 07:44:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.4436308, 
+        "lng": -88.23647749999999, 
+        "tweetHandle": "@Rjkalmansr"
+    }, 
+    {
+        "date": "Wed Mar 07 07:19:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.4592076, 
+        "lng": -90.67179709999999, 
+        "tweetHandle": "@asscheeksonme"
+    }, 
+    {
+        "date": "Wed Mar 07 07:09:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Chatterstick"
+    }, 
+    {
+        "date": "Wed Mar 07 06:30:46 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Anthem_Singer"
+    }, 
+    {
+        "date": "Wed Mar 07 06:27:48 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@bigboss_nunnaa"
+    }, 
+    {
+        "date": "Wed Mar 07 06:25:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@rubyycarrillo"
+    }, 
+    {
+        "date": "Wed Mar 07 06:13:47 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@_kiyanax"
+    }, 
+    {
+        "date": "Wed Mar 07 06:07:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@_bmonayy"
+    }, 
+    {
+        "date": "Wed Mar 07 05:48:17 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Wed Mar 07 05:45:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@crose84"
+    }, 
+    {
+        "date": "Wed Mar 07 05:26:19 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 39.4961458, 
+        "lng": -88.1761521, 
+        "tweetHandle": "@tavianixalainax"
+    }, 
+    {
+        "date": "Wed Mar 07 05:25:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@SydneyA"
+    }, 
+    {
+        "date": "Wed Mar 07 05:22:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Ingloriousabby"
+    }, 
+    {
+        "date": "Wed Mar 07 05:13:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8455877, 
+        "lng": -87.7539448, 
+        "tweetHandle": "@iluvvtacoss"
+    }, 
+    {
+        "date": "Wed Mar 07 05:06:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@tomektutka"
+    }, 
+    {
+        "date": "Wed Mar 07 05:04:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.4592076, 
+        "lng": -90.67179709999999, 
+        "tweetHandle": "@qui_lacy"
+    }, 
+    {
+        "date": "Wed Mar 07 05:01:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MIKEPRSM"
+    }, 
+    {
+        "date": "Wed Mar 07 04:54:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@vianeyg95"
+    }, 
+    {
+        "date": "Wed Mar 07 04:41:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5936453, 
+        "lng": -87.6947699, 
+        "tweetHandle": "@Ralph_Folarin_7"
+    }, 
+    {
+        "date": "Wed Mar 07 04:38:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0722513, 
+        "lng": -87.7228384, 
+        "tweetHandle": "@erinfreedom"
+    }, 
+    {
+        "date": "Wed Mar 07 04:38:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.69864159999999, 
+        "lng": -88.0683955, 
+        "tweetHandle": "@chiefkeefah"
+    }, 
+    {
+        "date": "Wed Mar 07 04:27:06 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@CrutcherLiza"
+    }, 
+    {
+        "date": "Wed Mar 07 04:22:58 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@TeamChevy48"
+    }, 
+    {
+        "date": "Wed Mar 07 04:22:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8889194, 
+        "lng": -87.9033956, 
+        "tweetHandle": "@yooitskassybruh"
+    }, 
+    {
+        "date": "Wed Mar 07 04:14:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MapsSSB"
+    }, 
+    {
+        "date": "Wed Mar 07 04:01:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@latinapalida"
+    }, 
+    {
+        "date": "Wed Mar 07 03:44:34 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@PowerfulChance"
+    }, 
+    {
+        "date": "Wed Mar 07 03:44:16 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.9211423, 
+        "lng": -87.8092266, 
+        "tweetHandle": "@ReveeDokousian"
+    }, 
+    {
+        "date": "Wed Mar 07 03:34:16 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MightyThor617"
+    }, 
+    {
+        "date": "Wed Mar 07 03:28:42 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.91030680000001, 
+        "lng": -88.0717353, 
+        "tweetHandle": "@CherieDLyon1"
+    }, 
+    {
+        "date": "Wed Mar 07 03:26:39 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JellyBeaannnz"
+    }, 
+    {
+        "date": "Wed Mar 07 03:26:34 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@theGSpledge"
+    }, 
+    {
+        "date": "Wed Mar 07 03:22:44 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 38.4614404, 
+        "lng": -90.09177550000001, 
+        "tweetHandle": "@MackenzieSkaer"
+    }, 
+    {
+        "date": "Wed Mar 07 03:19:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@hoffert_dale"
+    }, 
+    {
+        "date": "Wed Mar 07 03:17:20 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@SunflowerBlvd_"
+    }, 
+    {
+        "date": "Wed Mar 07 03:16:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ohhenryhenry"
+    }, 
+    {
+        "date": "Wed Mar 07 02:42:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9200288, 
+        "lng": -88.68869629999999, 
+        "tweetHandle": "@cassiexx3"
+    }, 
+    {
+        "date": "Wed Mar 07 02:42:45 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 39.78172130000001, 
+        "lng": -89.6501481, 
+        "tweetHandle": "@mikeytheweasel"
+    }, 
+    {
+        "date": "Wed Mar 07 02:41:41 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@4ryss4"
+    }, 
+    {
+        "date": "Wed Mar 07 02:38:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@taylorrrrrrrr32"
+    }, 
+    {
+        "date": "Wed Mar 07 02:35:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Wed Mar 07 02:34:04 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.9831056, 
+        "lng": -89.01618409999999, 
+        "tweetHandle": "@DerickJ23268224"
+    }, 
+    {
+        "date": "Wed Mar 07 02:26:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JennaleeAshley"
+    }, 
+    {
+        "date": "Wed Mar 07 02:13:59 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.638924, 
+        "lng": -87.55671079999999, 
+        "tweetHandle": "@kasmrinh"
+    }, 
+    {
+        "date": "Wed Mar 07 02:13:36 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@stephsalgado69"
+    }, 
+    {
+        "date": "Wed Mar 07 02:02:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TeeZus12"
+    }, 
+    {
+        "date": "Wed Mar 07 02:00:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@FuckAlexWalker"
+    }, 
+    {
+        "date": "Wed Mar 07 01:57:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@sweetcaroIine"
+    }, 
+    {
+        "date": "Wed Mar 07 01:44:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@kirkajoseph"
+    }, 
+    {
+        "date": "Wed Mar 07 01:31:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3636331, 
+        "lng": -87.84479379999999, 
+        "tweetHandle": "@moonchi_v"
+    }, 
+    {
+        "date": "Wed Mar 07 01:22:02 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.4461322, 
+        "lng": -87.83285049999999, 
+        "tweetHandle": "@CoxRyan89"
+    }, 
+    {
+        "date": "Wed Mar 07 01:13:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7014389, 
+        "lng": -90.14871989999999, 
+        "tweetHandle": "@Blake_Murphy99"
+    }, 
+    {
+        "date": "Wed Mar 07 01:00:27 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 38.5200504, 
+        "lng": -89.9839935, 
+        "tweetHandle": "@ReeRee_Bby"
+    }, 
+    {
+        "date": "Wed Mar 07 00:54:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@AREXXX_A_BEAST"
+    }, 
+    {
+        "date": "Wed Mar 07 00:24:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6628076, 
+        "lng": -88.5370197, 
+        "tweetHandle": "@TurneyMontana"
+    }, 
+    {
+        "date": "Wed Mar 07 00:07:08 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@erincrichter"
+    }, 
+    {
+        "date": "Tue Mar 06 23:59:50 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.4039201, 
+        "lng": -88.1117242, 
+        "tweetHandle": "@kulak_anna"
+    }, 
+    {
+        "date": "Tue Mar 06 23:58:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Money_nique"
+    }, 
+    {
+        "date": "Tue Mar 06 23:57:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.2711311, 
+        "lng": -89.0939952, 
+        "tweetHandle": "@Sam_Corbett_88"
+    }, 
+    {
+        "date": "Tue Mar 06 23:57:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Money_nique"
+    }, 
+    {
+        "date": "Tue Mar 06 23:51:52 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 40.1105875, 
+        "lng": -88.2072697, 
+        "tweetHandle": "@HoneyBdgr_photo"
+    }, 
+    {
+        "date": "Tue Mar 06 23:39:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8800296, 
+        "lng": -88.00784349999999, 
+        "tweetHandle": "@JoeySSBM"
+    }, 
+    {
+        "date": "Tue Mar 06 23:20:04 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8089191, 
+        "lng": -88.01117459999999, 
+        "tweetHandle": "@hawkymama15"
+    }, 
+    {
+        "date": "Tue Mar 06 23:09:34 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.3111442, 
+        "lng": -88.60979359999999, 
+        "tweetHandle": "@Zterry12"
+    }, 
+    {
+        "date": "Tue Mar 06 22:46:40 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MochaC86"
+    }, 
+    {
+        "date": "Tue Mar 06 22:46:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8775293, 
+        "lng": -88.0670118, 
+        "tweetHandle": "@mattstratton"
+    }, 
+    {
+        "date": "Tue Mar 06 22:37:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ItsJohnCass"
+    }, 
+    {
+        "date": "Tue Mar 06 22:35:18 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Woodcat0214"
+    }, 
+    {
+        "date": "Tue Mar 06 22:35:17 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@chrxstianh__"
+    }, 
+    {
+        "date": "Tue Mar 06 22:34:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@1cjxiv"
+    }, 
+    {
+        "date": "Tue Mar 06 22:34:36 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.1760108, 
+        "lng": -87.87952299999999, 
+        "tweetHandle": "@MyNameIsLeee"
+    }, 
+    {
+        "date": "Tue Mar 06 22:27:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@_kaeg"
+    }, 
+    {
+        "date": "Tue Mar 06 22:11:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@pmgarcia"
+    }, 
+    {
+        "date": "Tue Mar 06 22:11:01 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@DESTINY_LMAO"
+    }, 
+    {
+        "date": "Tue Mar 06 22:10:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9200288, 
+        "lng": -88.68869629999999, 
+        "tweetHandle": "@cassiexx3"
+    }, 
+    {
+        "date": "Tue Mar 06 22:09:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0354084, 
+        "lng": -88.2825668, 
+        "tweetHandle": "@Bob97146530"
+    }, 
+    {
+        "date": "Tue Mar 06 22:05:18 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 42.3450219, 
+        "lng": -88.06785800000002, 
+        "tweetHandle": "@Jennie_Figueroa"
+    }, 
+    {
+        "date": "Tue Mar 06 21:52:40 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5936453, 
+        "lng": -87.6947699, 
+        "tweetHandle": "@Ralph_Folarin_7"
+    }, 
+    {
+        "date": "Tue Mar 06 21:23:39 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.719978, 
+        "lng": -87.7479528, 
+        "tweetHandle": "@_lillyrose__"
+    }, 
+    {
+        "date": "Tue Mar 06 21:21:33 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Benny_Illini"
+    }, 
+    {
+        "date": "Tue Mar 06 20:59:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3636331, 
+        "lng": -87.84479379999999, 
+        "tweetHandle": "@ZohsoKrho"
+    }, 
+    {
+        "date": "Tue Mar 06 20:57:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@patyyyy_"
+    }, 
+    {
+        "date": "Tue Mar 06 20:52:51 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@yoga4allbeings"
+    }, 
+    {
+        "date": "Tue Mar 06 20:43:26 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 38.7292137, 
+        "lng": -87.6816927, 
+        "tweetHandle": "@palayolo"
+    }, 
+    {
+        "date": "Tue Mar 06 20:33:57 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@_nataliekoch"
+    }, 
+    {
+        "date": "Tue Mar 06 20:30:40 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.91252859999999, 
+        "lng": -88.13479269999999, 
+        "tweetHandle": "@zelinski_mark"
+    }, 
+    {
+        "date": "Tue Mar 06 20:25:19 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Chillbutbusssin"
+    }, 
+    {
+        "date": "Tue Mar 06 20:16:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.4592076, 
+        "lng": -90.67179709999999, 
+        "tweetHandle": "@2girls1ant"
+    }, 
+    {
+        "date": "Tue Mar 06 20:15:17 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.6100344, 
+        "lng": -87.6467131, 
+        "tweetHandle": "@FredericRoshan"
+    }, 
+    {
+        "date": "Tue Mar 06 19:57:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TraderNickyBAT"
+    }, 
+    {
+        "date": "Tue Mar 06 19:35:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ZakiyaShani"
+    }, 
+    {
+        "date": "Tue Mar 06 19:30:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MyBlackThought"
+    }, 
+    {
+        "date": "Tue Mar 06 19:21:49 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.23933230000001, 
+        "lng": -87.9653565, 
+        "tweetHandle": "@leepunzel"
+    }, 
+    {
+        "date": "Tue Mar 06 19:12:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.357254, 
+        "lng": -88.4211785, 
+        "tweetHandle": "@cassy_j_d"
+    }, 
+    {
+        "date": "Tue Mar 06 18:26:35 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.6028116, 
+        "lng": -87.74393839999999, 
+        "tweetHandle": "@AcornPL"
+    }, 
+    {
+        "date": "Tue Mar 06 18:01:08 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@BexKell"
+    }, 
+    {
+        "date": "Tue Mar 06 17:45:26 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.931696, 
+        "lng": -87.9889556, 
+        "tweetHandle": "@kim_lohse4"
+    }, 
+    {
+        "date": "Tue Mar 06 17:39:53 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.484479, 
+        "lng": -87.7033787, 
+        "tweetHandle": "@Just_MorganDuh"
+    }, 
+    {
+        "date": "Tue Mar 06 17:27:24 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Tue Mar 06 17:22:59 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.4592076, 
+        "lng": -90.67179709999999, 
+        "tweetHandle": "@JovanaBulatovi"
+    }, 
+    {
+        "date": "Tue Mar 06 17:10:26 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9005865, 
+        "lng": -87.8567276, 
+        "tweetHandle": "@khalifaboa"
+    }, 
+    {
+        "date": "Tue Mar 06 17:02:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@Lika_Luscious"
+    }, 
+    {
+        "date": "Tue Mar 06 16:58:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lishaleena"
+    }, 
+    {
+        "date": "Tue Mar 06 16:55:21 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@tracey_freiboth"
+    }, 
+    {
+        "date": "Tue Mar 06 16:43:30 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@braxtin_"
+    }, 
+    {
+        "date": "Tue Mar 06 16:22:56 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TheBachBabes"
+    }, 
+    {
+        "date": "Tue Mar 06 16:13:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@magssz_"
+    }, 
+    {
+        "date": "Tue Mar 06 16:08:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@miya_gotfans"
+    }, 
+    {
+        "date": "Tue Mar 06 15:56:00 +0000 2018", 
+        "keywords": "#flu,cold,#flu", 
+        "lat": 41.91030680000001, 
+        "lng": -88.0717353, 
+        "tweetHandle": "@organisoul"
+    }, 
+    {
+        "date": "Tue Mar 06 15:50:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@NotGregAnymore"
+    }, 
+    {
+        "date": "Tue Mar 06 15:21:25 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7014389, 
+        "lng": -90.14871989999999, 
+        "tweetHandle": "@joe_womble"
+    }, 
+    {
+        "date": "Tue Mar 06 15:13:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8397865, 
+        "lng": -87.95355339999999, 
+        "tweetHandle": "@AvatarDota2"
+    }, 
+    {
+        "date": "Tue Mar 06 14:56:30 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@The_Jazmina_"
+    }, 
+    {
+        "date": "Tue Mar 06 14:46:35 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@SebieWar"
+    }, 
+    {
+        "date": "Tue Mar 06 14:39:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jmuntd"
+    }, 
+    {
+        "date": "Tue Mar 06 14:29:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jmuntd"
+    }, 
+    {
+        "date": "Tue Mar 06 14:13:08 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@dimshady"
+    }, 
+    {
+        "date": "Tue Mar 06 14:11:08 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7697533, 
+        "lng": -87.9358931, 
+        "tweetHandle": "@GinaLynnessoils"
+    }, 
+    {
+        "date": "Tue Mar 06 14:08:16 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 42.2830786, 
+        "lng": -87.9531303, 
+        "tweetHandle": "@heatherlynn3488"
+    }, 
+    {
+        "date": "Tue Mar 06 13:25:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@delamanchad"
+    }, 
+    {
+        "date": "Tue Mar 06 13:08:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7308811, 
+        "lng": -88.0853154, 
+        "tweetHandle": "@klayewheeler"
+    }, 
+    {
+        "date": "Tue Mar 06 13:04:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.78172130000001, 
+        "lng": -89.6501481, 
+        "tweetHandle": "@thearniec"
+    }, 
+    {
+        "date": "Tue Mar 06 13:03:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3702996, 
+        "lng": -87.90201859999999, 
+        "tweetHandle": "@hillerykah"
+    }, 
+    {
+        "date": "Tue Mar 06 12:39:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.422241, 
+        "lng": -88.61371009999999, 
+        "tweetHandle": "@BigK111"
+    }, 
+    {
+        "date": "Tue Mar 06 12:29:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@DaveKramer1"
+    }, 
+    {
+        "date": "Tue Mar 06 12:28:12 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@ProductJT"
+    }, 
+    {
+        "date": "Tue Mar 06 12:27:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.861159, 
+        "lng": -90.0976069, 
+        "tweetHandle": "@donslaughter2"
+    }, 
+    {
+        "date": "Tue Mar 06 11:43:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JaimeySexton"
+    }, 
+    {
+        "date": "Tue Mar 06 11:40:59 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Whos_Cameron"
+    }, 
+    {
+        "date": "Tue Mar 06 10:44:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@None_Otha30"
+    }, 
+    {
+        "date": "Tue Mar 06 10:41:23 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@britt_aneyyy"
+    }, 
+    {
+        "date": "Tue Mar 06 08:32:28 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Tamaralynn212"
+    }, 
+    {
+        "date": "Tue Mar 06 08:29:28 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Tamaralynn212"
+    }, 
+    {
+        "date": "Tue Mar 06 08:25:45 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@alyshaba"
+    }, 
+    {
+        "date": "Tue Mar 06 08:17:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@FYPM100"
+    }, 
+    {
+        "date": "Tue Mar 06 07:25:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@claire_cooney"
+    }, 
+    {
+        "date": "Tue Mar 06 07:21:51 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 38.5285169, 
+        "lng": -89.1316944, 
+        "tweetHandle": "@DSqueakJones"
+    }, 
+    {
+        "date": "Tue Mar 06 07:01:41 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@ladyyyjaja"
+    }, 
+    {
+        "date": "Tue Mar 06 06:57:54 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Tue Mar 06 06:57:53 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Tue Mar 06 06:47:42 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8800296, 
+        "lng": -88.00784349999999, 
+        "tweetHandle": "@JoeySSBM"
+    }, 
+    {
+        "date": "Tue Mar 06 06:45:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lefthandshakes"
+    }, 
+    {
+        "date": "Tue Mar 06 06:17:17 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@XOsarahann_"
+    }, 
+    {
+        "date": "Tue Mar 06 06:02:19 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@_wsFlee"
+    }, 
+    {
+        "date": "Tue Mar 06 05:39:12 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0664167, 
+        "lng": -87.9372908, 
+        "tweetHandle": "@byrd1811"
+    }, 
+    {
+        "date": "Tue Mar 06 05:34:29 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@latinapalida"
+    }, 
+    {
+        "date": "Tue Mar 06 05:27:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.2586342, 
+        "lng": -87.840625, 
+        "tweetHandle": "@kokudon"
+    }, 
+    {
+        "date": "Tue Mar 06 05:16:25 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.34446639999999, 
+        "lng": -88.04174599999999, 
+        "tweetHandle": "@ShairaAthalia"
+    }, 
+    {
+        "date": "Tue Mar 06 05:11:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@andrewdxcker"
+    }, 
+    {
+        "date": "Tue Mar 06 04:56:15 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.6303103, 
+        "lng": -87.85394250000002, 
+        "tweetHandle": "@cilla_page"
+    }, 
+    {
+        "date": "Tue Mar 06 04:53:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@thatoneegirll"
+    }, 
+    {
+        "date": "Tue Mar 06 04:47:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@IzzBatko"
+    }, 
+    {
+        "date": "Tue Mar 06 04:43:17 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Tue Mar 06 04:35:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6828074, 
+        "lng": -88.35145960000001, 
+        "tweetHandle": "@austinmemeler"
+    }, 
+    {
+        "date": "Tue Mar 06 04:29:48 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@peytonkitty"
+    }, 
+    {
+        "date": "Tue Mar 06 04:29:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0324025, 
+        "lng": -87.7416246, 
+        "tweetHandle": "@pefiom"
+    }, 
+    {
+        "date": "Tue Mar 06 04:29:35 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.5200504, 
+        "lng": -89.9839935, 
+        "tweetHandle": "@AhmadLathan"
+    }, 
+    {
+        "date": "Tue Mar 06 04:25:00 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 39.4961458, 
+        "lng": -88.1761521, 
+        "tweetHandle": "@desilashai"
+    }, 
+    {
+        "date": "Tue Mar 06 04:23:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6680885, 
+        "lng": -87.7964416, 
+        "tweetHandle": "@m3hhhhhh"
+    }, 
+    {
+        "date": "Tue Mar 06 04:21:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@_kingneal"
+    }, 
+    {
+        "date": "Tue Mar 06 04:20:00 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Tue Mar 06 04:19:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MichaelMorarity"
+    }, 
+    {
+        "date": "Tue Mar 06 04:17:11 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.801141, 
+        "lng": -88.0747875, 
+        "tweetHandle": "@katie_snyderr"
+    }, 
+    {
+        "date": "Tue Mar 06 03:59:55 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 39.4961458, 
+        "lng": -88.1761521, 
+        "tweetHandle": "@desilashai"
+    }, 
+    {
+        "date": "Tue Mar 06 03:52:58 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jjdav85"
+    }, 
+    {
+        "date": "Tue Mar 06 03:37:09 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3472406, 
+        "lng": -89.03899559999999, 
+        "tweetHandle": "@rick_ringer"
+    }, 
+    {
+        "date": "Tue Mar 06 03:27:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7469749, 
+        "lng": -88.0503406, 
+        "tweetHandle": "@CobbzBently"
+    }, 
+    {
+        "date": "Tue Mar 06 03:24:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@EdgebrookCHGO"
+    }, 
+    {
+        "date": "Tue Mar 06 03:23:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@T_noco_Cain"
+    }, 
+    {
+        "date": "Tue Mar 06 03:15:46 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.9582863, 
+        "lng": -88.4113034, 
+        "tweetHandle": "@meghan_mary19"
+    }, 
+    {
+        "date": "Tue Mar 06 03:13:43 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@jaayciz"
+    }, 
+    {
+        "date": "Tue Mar 06 03:02:22 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Gameonysus"
+    }, 
+    {
+        "date": "Tue Mar 06 03:01:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@BpopeTV"
+    }, 
+    {
+        "date": "Tue Mar 06 02:56:26 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@BushongHelena"
+    }, 
+    {
+        "date": "Tue Mar 06 02:43:53 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Tue Mar 06 02:43:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.8922687, 
+        "lng": -89.41313559999999, 
+        "tweetHandle": "@HaleyMckenzie02"
+    }, 
+    {
+        "date": "Tue Mar 06 02:43:37 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.6475306, 
+        "lng": -88.0895061, 
+        "tweetHandle": "@Aline_Orozco"
+    }, 
+    {
+        "date": "Tue Mar 06 02:38:30 +0000 2018", 
+        "keywords": "cough,cold", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@everysince96"
+    }, 
+    {
+        "date": "Tue Mar 06 02:36:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@RealKatsCorner"
+    }, 
+    {
+        "date": "Tue Mar 06 02:26:49 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@ProductJT"
+    }, 
+    {
+        "date": "Tue Mar 06 02:13:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TheBachBabes"
+    }, 
+    {
+        "date": "Tue Mar 06 01:58:47 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@harriekd"
+    }, 
+    {
+        "date": "Tue Mar 06 01:52:50 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Showtime773"
+    }, 
+    {
+        "date": "Tue Mar 06 01:50:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0450722, 
+        "lng": -87.68769689999999, 
+        "tweetHandle": "@kevputz"
+    }, 
+    {
+        "date": "Tue Mar 06 01:42:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@trinityperry_"
+    }, 
+    {
+        "date": "Tue Mar 06 01:42:34 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@kthxbiopsy"
+    }, 
+    {
+        "date": "Tue Mar 06 01:32:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9550296, 
+        "lng": -87.94006569999999, 
+        "tweetHandle": "@_JayyyyB"
+    }, 
+    {
+        "date": "Tue Mar 06 01:30:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Tue Mar 06 01:10:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@beccaxx"
+    }, 
+    {
+        "date": "Tue Mar 06 01:10:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5647575, 
+        "lng": -87.53893099999999, 
+        "tweetHandle": "@cleo______"
+    }, 
+    {
+        "date": "Tue Mar 06 00:58:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HERRONSAVERY"
+    }, 
+    {
+        "date": "Tue Mar 06 00:55:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Brianhipp"
+    }, 
+    {
+        "date": "Tue Mar 06 00:49:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@rachelreeder6"
+    }, 
+    {
+        "date": "Tue Mar 06 00:44:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8847507, 
+        "lng": -88.2039607, 
+        "tweetHandle": "@mikushnookems"
+    }, 
+    {
+        "date": "Tue Mar 06 00:40:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@kurisuray_"
+    }, 
+    {
+        "date": "Tue Mar 06 00:34:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.4592076, 
+        "lng": -90.67179709999999, 
+        "tweetHandle": "@asscheeksonme"
+    }, 
+    {
+        "date": "Tue Mar 06 00:30:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@hulkisholmes"
+    }, 
+    {
+        "date": "Tue Mar 06 00:29:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7014389, 
+        "lng": -90.14871989999999, 
+        "tweetHandle": "@joe_womble"
+    }, 
+    {
+        "date": "Tue Mar 06 00:23:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.4958665, 
+        "lng": -87.84866129999999, 
+        "tweetHandle": "@DJVicToth"
+    }, 
+    {
+        "date": "Tue Mar 06 00:20:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0354084, 
+        "lng": -88.2825668, 
+        "tweetHandle": "@safari_lex"
+    }, 
+    {
+        "date": "Tue Mar 06 00:05:24 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Bamitage"
+    }, 
+    {
+        "date": "Mon Mar 05 23:56:49 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@briantheelion"
+    }, 
+    {
+        "date": "Mon Mar 05 23:53:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VakTrades"
+    }, 
+    {
+        "date": "Mon Mar 05 23:51:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@rorogadget"
+    }, 
+    {
+        "date": "Mon Mar 05 23:45:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lishaleena"
+    }, 
+    {
+        "date": "Mon Mar 05 23:38:01 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@VAGODECHICAGO"
+    }, 
+    {
+        "date": "Mon Mar 05 23:33:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0450722, 
+        "lng": -87.68769689999999, 
+        "tweetHandle": "@blounttalk"
+    }, 
+    {
+        "date": "Mon Mar 05 23:15:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@BruceWolfChi"
+    }, 
+    {
+        "date": "Mon Mar 05 23:14:05 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Nate_Dogg53"
+    }, 
+    {
+        "date": "Mon Mar 05 22:56:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TNDO_Kirk"
+    }, 
+    {
+        "date": "Mon Mar 05 22:55:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@_jeanie_22"
+    }, 
+    {
+        "date": "Mon Mar 05 22:47:38 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 40.0422589, 
+        "lng": -87.63863219999999, 
+        "tweetHandle": "@Malia_Kmnz"
+    }, 
+    {
+        "date": "Mon Mar 05 22:38:48 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.34446639999999, 
+        "lng": -88.04174599999999, 
+        "tweetHandle": "@KSykers"
+    }, 
+    {
+        "date": "Mon Mar 05 22:30:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0841936, 
+        "lng": -88.0131275, 
+        "tweetHandle": "@AlksRodriguez"
+    }, 
+    {
+        "date": "Mon Mar 05 22:17:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5675388, 
+        "lng": -89.640658, 
+        "tweetHandle": "@KnownOfHim"
+    }, 
+    {
+        "date": "Mon Mar 05 22:12:36 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0664167, 
+        "lng": -87.9372908, 
+        "tweetHandle": "@mflessas2"
+    }, 
+    {
+        "date": "Mon Mar 05 22:07:01 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@peytonkitty"
+    }, 
+    {
+        "date": "Mon Mar 05 21:53:31 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@allyzacek"
+    }, 
+    {
+        "date": "Mon Mar 05 21:30:56 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.666149, 
+        "lng": -89.5800978, 
+        "tweetHandle": "@pkellz1569"
+    }, 
+    {
+        "date": "Mon Mar 05 21:22:54 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@Taijhan_Nelson1"
+    }, 
+    {
+        "date": "Mon Mar 05 21:14:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8847507, 
+        "lng": -88.2039607, 
+        "tweetHandle": "@IamTonyGarcia"
+    }, 
+    {
+        "date": "Mon Mar 05 21:09:55 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1211364, 
+        "lng": -88.2578582, 
+        "tweetHandle": "@sherry25793049"
+    }, 
+    {
+        "date": "Mon Mar 05 20:50:59 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lefttheprairie"
+    }, 
+    {
+        "date": "Mon Mar 05 20:37:01 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@PerfectRedd"
+    }, 
+    {
+        "date": "Mon Mar 05 20:34:51 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@journeekeef"
+    }, 
+    {
+        "date": "Mon Mar 05 20:34:03 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 37.8985966, 
+        "lng": -88.9233622, 
+        "tweetHandle": "@DerickJ23268224"
+    }, 
+    {
+        "date": "Mon Mar 05 20:30:58 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JEACARD"
+    }, 
+    {
+        "date": "Mon Mar 05 20:30:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MunyKen"
+    }, 
+    {
+        "date": "Mon Mar 05 20:17:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7205889, 
+        "lng": -87.7017175, 
+        "tweetHandle": "@dblue095"
+    }, 
+    {
+        "date": "Mon Mar 05 20:01:34 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.632223, 
+        "lng": -88.2120315, 
+        "tweetHandle": "@pntrack"
+    }, 
+    {
+        "date": "Mon Mar 05 19:59:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6155909, 
+        "lng": -87.5294871, 
+        "tweetHandle": "@NiaaLongg98"
+    }, 
+    {
+        "date": "Mon Mar 05 19:59:18 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@WalshNumber12"
+    }, 
+    {
+        "date": "Mon Mar 05 19:52:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@Jinx_Minx713"
+    }, 
+    {
+        "date": "Mon Mar 05 19:45:39 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MatthewTelles"
+    }, 
+    {
+        "date": "Mon Mar 05 19:40:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@_ohmamadia"
+    }, 
+    {
+        "date": "Mon Mar 05 19:37:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@Randtastic"
+    }, 
+    {
+        "date": "Mon Mar 05 19:23:24 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.9114271, 
+        "lng": -90.64735759999999, 
+        "tweetHandle": "@309Cobra69"
+    }, 
+    {
+        "date": "Mon Mar 05 18:51:40 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.94781580000001, 
+        "lng": -90.3712395, 
+        "tweetHandle": "@sherwo1211"
+    }, 
+    {
+        "date": "Mon Mar 05 18:45:00 +0000 2018", 
+        "keywords": "aches", 
+        "lat": 41.1667001, 
+        "lng": -87.662815, 
+        "tweetHandle": "@Kimmsterr_yeah"
+    }, 
+    {
+        "date": "Mon Mar 05 18:44:52 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0333607, 
+        "lng": -88.0834059, 
+        "tweetHandle": "@GodBlessUSA72"
+    }, 
+    {
+        "date": "Mon Mar 05 18:32:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3636331, 
+        "lng": -87.84479379999999, 
+        "tweetHandle": "@MastaCola"
+    }, 
+    {
+        "date": "Mon Mar 05 18:20:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.719978, 
+        "lng": -87.7479528, 
+        "tweetHandle": "@savvorsomething"
+    }, 
+    {
+        "date": "Mon Mar 05 18:05:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ryanxandrew"
+    }, 
+    {
+        "date": "Mon Mar 05 18:03:57 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5572567, 
+        "lng": -87.6656014, 
+        "tweetHandle": "@Shakti_Michele"
+    }, 
+    {
+        "date": "Mon Mar 05 18:02:12 +0000 2018", 
+        "keywords": "sick,#sick", 
+        "lat": 41.6590466, 
+        "lng": -87.79468159999999, 
+        "tweetHandle": "@jamesrosal_"
+    }, 
+    {
+        "date": "Mon Mar 05 17:52:29 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@peytonkitty"
+    }, 
+    {
+        "date": "Mon Mar 05 17:49:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.325578, 
+        "lng": -87.8411818, 
+        "tweetHandle": "@Varshayy"
+    }, 
+    {
+        "date": "Mon Mar 05 17:27:06 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Mon Mar 05 17:23:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@bbeliveau1998"
+    }, 
+    {
+        "date": "Mon Mar 05 17:22:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.69864159999999, 
+        "lng": -88.0683955, 
+        "tweetHandle": "@Throne__"
+    }, 
+    {
+        "date": "Mon Mar 05 17:05:18 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@stefanie_colin"
+    }, 
+    {
+        "date": "Mon Mar 05 16:55:41 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@The_Eli_Grey"
+    }, 
+    {
+        "date": "Mon Mar 05 16:39:44 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5936453, 
+        "lng": -87.6947699, 
+        "tweetHandle": "@FredericRoshan"
+    }, 
+    {
+        "date": "Mon Mar 05 16:05:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MisRicoo"
+    }, 
+    {
+        "date": "Mon Mar 05 15:56:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Dimplezzz2002"
+    }, 
+    {
+        "date": "Mon Mar 05 15:52:00 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.2589122, 
+        "lng": -88.1392474, 
+        "tweetHandle": "@marycraig1045"
+    }, 
+    {
+        "date": "Mon Mar 05 15:47:18 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7306054, 
+        "lng": -88.9331256, 
+        "tweetHandle": "@Natalie85810347"
+    }, 
+    {
+        "date": "Mon Mar 05 15:45:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@andymcphalanx"
+    }, 
+    {
+        "date": "Mon Mar 05 15:44:53 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ragusauced"
+    }, 
+    {
+        "date": "Mon Mar 05 15:31:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@TatiDaG"
+    }, 
+    {
+        "date": "Mon Mar 05 15:24:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@ShortyCrazyAss"
+    }, 
+    {
+        "date": "Mon Mar 05 15:10:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8850317, 
+        "lng": -87.7845025, 
+        "tweetHandle": "@JoziahsQueen_"
+    }, 
+    {
+        "date": "Mon Mar 05 15:08:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0039178, 
+        "lng": -87.9703461, 
+        "tweetHandle": "@poppunkwayo"
+    }, 
+    {
+        "date": "Mon Mar 05 14:41:29 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@andydaprep"
+    }, 
+    {
+        "date": "Mon Mar 05 14:34:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@summer_geeee25"
+    }, 
+    {
+        "date": "Mon Mar 05 14:33:25 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@andydaprep"
+    }, 
+    {
+        "date": "Mon Mar 05 14:07:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5094771, 
+        "lng": -90.5787476, 
+        "tweetHandle": "@kenzz_pluto"
+    }, 
+    {
+        "date": "Mon Mar 05 14:04:53 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 42.3347416, 
+        "lng": -88.8612138, 
+        "tweetHandle": "@KayBinks"
+    }, 
+    {
+        "date": "Mon Mar 05 14:02:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@jynaiyaaustin"
+    }, 
+    {
+        "date": "Mon Mar 05 14:02:04 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@nosyla_xx"
+    }, 
+    {
+        "date": "Mon Mar 05 13:49:11 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Flyer_thanu2"
+    }, 
+    {
+        "date": "Mon Mar 05 13:47:56 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Flyer_thanu2"
+    }, 
+    {
+        "date": "Mon Mar 05 13:42:15 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ChicagoPenguin2"
+    }, 
+    {
+        "date": "Mon Mar 05 13:41:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.85058739999999, 
+        "lng": -87.7936685, 
+        "tweetHandle": "@BeetleGal27"
+    }, 
+    {
+        "date": "Mon Mar 05 13:39:24 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@TalesILove"
+    }, 
+    {
+        "date": "Mon Mar 05 12:52:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@MIKEPRSM"
+    }, 
+    {
+        "date": "Mon Mar 05 12:28:32 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@BartShore"
+    }, 
+    {
+        "date": "Mon Mar 05 12:21:14 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8794758, 
+        "lng": -87.81367, 
+        "tweetHandle": "@JustynVP"
+    }, 
+    {
+        "date": "Mon Mar 05 11:49:57 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@DFree__"
+    }, 
+    {
+        "date": "Mon Mar 05 11:37:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MichaelHogan60"
+    }, 
+    {
+        "date": "Mon Mar 05 10:33:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3472406, 
+        "lng": -89.03899559999999, 
+        "tweetHandle": "@gavinphillips_1"
+    }, 
+    {
+        "date": "Mon Mar 05 09:52:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@magssz_"
+    }, 
+    {
+        "date": "Mon Mar 05 09:34:23 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@magssz_"
+    }, 
+    {
+        "date": "Mon Mar 05 09:13:59 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.525031, 
+        "lng": -88.0817251, 
+        "tweetHandle": "@slaylaah"
+    }, 
+    {
+        "date": "Mon Mar 05 07:58:28 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.1105875, 
+        "lng": -88.2072697, 
+        "tweetHandle": "@Ashhhhlayyy"
+    }, 
+    {
+        "date": "Mon Mar 05 07:11:53 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.9396826, 
+        "lng": -87.66364829999999, 
+        "tweetHandle": "@no_hericane"
+    }, 
+    {
+        "date": "Mon Mar 05 07:04:12 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@EmceeSuspense"
+    }, 
+    {
+        "date": "Mon Mar 05 06:52:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.931696, 
+        "lng": -87.9889556, 
+        "tweetHandle": "@CoreysStories23"
+    }, 
+    {
+        "date": "Mon Mar 05 06:35:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.8803256, 
+        "lng": -90.1112184, 
+        "tweetHandle": "@ashhknightt"
+    }, 
+    {
+        "date": "Mon Mar 05 06:19:06 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@hitorivillain"
+    }, 
+    {
+        "date": "Mon Mar 05 05:55:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7467619, 
+        "lng": -87.76073799999999, 
+        "tweetHandle": "@breannnajones"
+    }, 
+    {
+        "date": "Mon Mar 05 05:37:36 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 39.733936, 
+        "lng": -90.2290098, 
+        "tweetHandle": "@tobimarie97"
+    }, 
+    {
+        "date": "Mon Mar 05 05:11:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@PrivilegedVictm"
+    }, 
+    {
+        "date": "Mon Mar 05 05:03:18 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@PrivilegedVictm"
+    }, 
+    {
+        "date": "Mon Mar 05 04:48:01 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@BochincheOnFilm"
+    }, 
+    {
+        "date": "Mon Mar 05 04:32:48 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@CHoop18_"
+    }, 
+    {
+        "date": "Mon Mar 05 04:26:02 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@uhleekuh"
+    }, 
+    {
+        "date": "Mon Mar 05 04:22:40 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@punkbynaturee"
+    }, 
+    {
+        "date": "Mon Mar 05 04:20:20 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0324025, 
+        "lng": -87.7416246, 
+        "tweetHandle": "@zelinski_mark"
+    }, 
+    {
+        "date": "Mon Mar 05 04:15:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8800296, 
+        "lng": -88.00784349999999, 
+        "tweetHandle": "@SablackGonzalez"
+    }, 
+    {
+        "date": "Mon Mar 05 04:03:14 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@mr_spilled_ink"
+    }, 
+    {
+        "date": "Mon Mar 05 03:59:50 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ohsalad_days"
+    }, 
+    {
+        "date": "Mon Mar 05 03:55:30 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.2711311, 
+        "lng": -89.0939952, 
+        "tweetHandle": "@lamontchi_"
+    }, 
+    {
+        "date": "Mon Mar 05 03:52:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@11Rivas11"
+    }, 
+    {
+        "date": "Mon Mar 05 03:46:51 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6475306, 
+        "lng": -88.0895061, 
+        "tweetHandle": "@tiffiloflores"
+    }, 
+    {
+        "date": "Mon Mar 05 03:42:55 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@DavionSaucyM"
+    }, 
+    {
+        "date": "Mon Mar 05 03:41:56 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@theGSpledge"
+    }, 
+    {
+        "date": "Mon Mar 05 03:38:26 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@danimalcrackers"
+    }, 
+    {
+        "date": "Mon Mar 05 03:24:37 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@JoMandrell"
+    }, 
+    {
+        "date": "Mon Mar 05 03:22:50 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HERRONSAVERY"
+    }, 
+    {
+        "date": "Mon Mar 05 03:18:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@playfulplato"
+    }, 
+    {
+        "date": "Mon Mar 05 03:03:01 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@DaveKramer1"
+    }, 
+    {
+        "date": "Mon Mar 05 02:57:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jimkressjr"
+    }, 
+    {
+        "date": "Mon Mar 05 02:52:01 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@X_cuseMyFrench"
+    }, 
+    {
+        "date": "Mon Mar 05 02:51:45 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1275267, 
+        "lng": -87.82895479999999, 
+        "tweetHandle": "@3timemvp"
+    }, 
+    {
+        "date": "Mon Mar 05 02:50:40 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 39.611146, 
+        "lng": -87.6961374, 
+        "tweetHandle": "@Debbieelsberry"
+    }, 
+    {
+        "date": "Mon Mar 05 02:50:13 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@natepthomps"
+    }, 
+    {
+        "date": "Mon Mar 05 02:49:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3636331, 
+        "lng": -87.84479379999999, 
+        "tweetHandle": "@dirtyd_iana"
+    }, 
+    {
+        "date": "Mon Mar 05 02:39:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0664167, 
+        "lng": -87.9372908, 
+        "tweetHandle": "@Kimberlee711"
+    }, 
+    {
+        "date": "Mon Mar 05 02:35:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.1997468, 
+        "lng": -87.80923349999999, 
+        "tweetHandle": "@OPCROM100"
+    }, 
+    {
+        "date": "Mon Mar 05 02:26:55 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1997468, 
+        "lng": -87.80923349999999, 
+        "tweetHandle": "@OPCROM100"
+    }, 
+    {
+        "date": "Mon Mar 05 02:19:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Mon Mar 05 01:53:35 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.4789097, 
+        "lng": -87.8236841, 
+        "tweetHandle": "@gomezvy"
+    }, 
+    {
+        "date": "Mon Mar 05 01:45:54 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 39.4961458, 
+        "lng": -88.1761521, 
+        "tweetHandle": "@itsRachtoyou_"
+    }, 
+    {
+        "date": "Mon Mar 05 01:45:18 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 37.7272727, 
+        "lng": -89.2167501, 
+        "tweetHandle": "@jojoxambition"
+    }, 
+    {
+        "date": "Mon Mar 05 01:41:28 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6966992, 
+        "lng": -87.8169984, 
+        "tweetHandle": "@jrod_9097"
+    }, 
+    {
+        "date": "Mon Mar 05 01:39:26 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@DjSettle"
+    }, 
+    {
+        "date": "Mon Mar 05 01:36:35 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@ALSWharton"
+    }, 
+    {
+        "date": "Mon Mar 05 01:30:49 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 38.7244997, 
+        "lng": -89.9572444, 
+        "tweetHandle": "@KatieHereford"
+    }, 
+    {
+        "date": "Mon Mar 05 01:24:59 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lindshelds"
+    }, 
+    {
+        "date": "Mon Mar 05 01:24:59 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@DougDavila"
+    }, 
+    {
+        "date": "Mon Mar 05 01:17:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@_Kayla2x"
+    }, 
+    {
+        "date": "Mon Mar 05 01:12:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.9222589, 
+        "lng": -89.48620249999999, 
+        "tweetHandle": "@moonlily333"
+    }, 
+    {
+        "date": "Mon Mar 05 01:12:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.8830924, 
+        "lng": -89.502592, 
+        "tweetHandle": "@guedern"
+    }, 
+    {
+        "date": "Mon Mar 05 01:05:24 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@whatisaclobby"
+    }, 
+    {
+        "date": "Mon Mar 05 01:04:20 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Princ3ssNene"
+    }, 
+    {
+        "date": "Mon Mar 05 00:41:33 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@JaxieLew"
+    }, 
+    {
+        "date": "Mon Mar 05 00:35:49 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 37.9967163, 
+        "lng": -88.92006850000001, 
+        "tweetHandle": "@DerickJ23268224"
+    }, 
+    {
+        "date": "Mon Mar 05 00:34:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@mmlinbloom"
+    }, 
+    {
+        "date": "Mon Mar 05 00:18:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@KatieReining_08"
+    }, 
+    {
+        "date": "Mon Mar 05 00:13:37 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@MaecyBae"
+    }, 
+    {
+        "date": "Mon Mar 05 00:11:57 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0039178, 
+        "lng": -87.9703461, 
+        "tweetHandle": "@cwessel16"
+    }, 
+    {
+        "date": "Mon Mar 05 00:09:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@RobinPowell_HD"
+    }, 
+    {
+        "date": "Sun Mar 04 23:58:24 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8089191, 
+        "lng": -88.01117459999999, 
+        "tweetHandle": "@JLEE5879blogger"
+    }, 
+    {
+        "date": "Sun Mar 04 23:56:43 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@OffThatLaLa"
+    }, 
+    {
+        "date": "Sun Mar 04 23:53:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.733936, 
+        "lng": -90.2290098, 
+        "tweetHandle": "@SmilingDays2015"
+    }, 
+    {
+        "date": "Sun Mar 04 23:52:39 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@DGambaiani"
+    }, 
+    {
+        "date": "Sun Mar 04 23:07:07 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.7036482, 
+        "lng": -89.4073123, 
+        "tweetHandle": "@pkellz1569"
+    }, 
+    {
+        "date": "Sun Mar 04 23:02:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9941938, 
+        "lng": -88.29229959999999, 
+        "tweetHandle": "@safari_lex"
+    }, 
+    {
+        "date": "Sun Mar 04 22:59:54 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 42.1900249, 
+        "lng": -87.9084039, 
+        "tweetHandle": "@ChrisCJoMo"
+    }, 
+    {
+        "date": "Sun Mar 04 22:55:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Deadly_Millions"
+    }, 
+    {
+        "date": "Sun Mar 04 22:48:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Deadly_Millions"
+    }, 
+    {
+        "date": "Sun Mar 04 22:30:22 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.1275267, 
+        "lng": -87.82895479999999, 
+        "tweetHandle": "@jeff_feyerer"
+    }, 
+    {
+        "date": "Sun Mar 04 22:21:34 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.7508391, 
+        "lng": -88.1535352, 
+        "tweetHandle": "@DougDavila"
+    }, 
+    {
+        "date": "Sun Mar 04 22:07:25 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.1200325, 
+        "lng": -87.8611531, 
+        "tweetHandle": "@RileyOfferman"
+    }, 
+    {
+        "date": "Sun Mar 04 21:47:50 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@GorgeousBossKy"
+    }, 
+    {
+        "date": "Sun Mar 04 21:43:31 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 42.23933230000001, 
+        "lng": -87.9653565, 
+        "tweetHandle": "@Sciss0rZ87"
+    }, 
+    {
+        "date": "Sun Mar 04 21:39:15 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8239203, 
+        "lng": -87.8517253, 
+        "tweetHandle": "@IrishLassie92"
+    }, 
+    {
+        "date": "Sun Mar 04 21:29:11 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Siciliannnn"
+    }, 
+    {
+        "date": "Sun Mar 04 21:06:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.7467619, 
+        "lng": -87.76073799999999, 
+        "tweetHandle": "@breannnajones"
+    }, 
+    {
+        "date": "Sun Mar 04 20:55:49 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8397865, 
+        "lng": -87.95355339999999, 
+        "tweetHandle": "@ratigan512"
+    }, 
+    {
+        "date": "Sun Mar 04 20:42:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.4436308, 
+        "lng": -88.23647749999999, 
+        "tweetHandle": "@Rjkalmansr"
+    }, 
+    {
+        "date": "Sun Mar 04 20:38:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8814197, 
+        "lng": -87.883117, 
+        "tweetHandle": "@LenciBaybee"
+    }, 
+    {
+        "date": "Sun Mar 04 20:10:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@J_Figgy492"
+    }, 
+    {
+        "date": "Sun Mar 04 19:59:17 +0000 2018", 
+        "keywords": "fatigue", 
+        "lat": 41.91030680000001, 
+        "lng": -88.0717353, 
+        "tweetHandle": "@StudnickValerie"
+    }, 
+    {
+        "date": "Sun Mar 04 19:52:25 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@qveenpay_"
+    }, 
+    {
+        "date": "Sun Mar 04 19:47:53 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.5647575, 
+        "lng": -87.53893099999999, 
+        "tweetHandle": "@PatBowman_"
+    }, 
+    {
+        "date": "Sun Mar 04 19:47:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.4789097, 
+        "lng": -87.8236841, 
+        "tweetHandle": "@ZohsoKrho"
+    }, 
+    {
+        "date": "Sun Mar 04 19:37:50 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0722513, 
+        "lng": -87.7228384, 
+        "tweetHandle": "@erinfreedom"
+    }, 
+    {
+        "date": "Sun Mar 04 19:29:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.69864159999999, 
+        "lng": -88.0683955, 
+        "tweetHandle": "@tatianaalicasas"
+    }, 
+    {
+        "date": "Sun Mar 04 19:20:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@YukihiraSauce"
+    }, 
+    {
+        "date": "Sun Mar 04 19:09:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@thvc_"
+    }, 
+    {
+        "date": "Sun Mar 04 19:02:03 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 38.7483814, 
+        "lng": -89.98315799999999, 
+        "tweetHandle": "@Gr4c3_C_J4ck50n"
+    }, 
+    {
+        "date": "Sun Mar 04 18:58:12 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0333623, 
+        "lng": -87.88339909999999, 
+        "tweetHandle": "@TheNikkiC"
+    }, 
+    {
+        "date": "Sun Mar 04 18:29:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9294736, 
+        "lng": -88.75036469999999, 
+        "tweetHandle": "@rachaeljoyandel"
+    }, 
+    {
+        "date": "Sun Mar 04 18:12:33 +0000 2018", 
+        "keywords": "sick,cough", 
+        "lat": 41.1200325, 
+        "lng": -87.8611531, 
+        "tweetHandle": "@ArtistSomeday"
+    }, 
+    {
+        "date": "Sun Mar 04 18:10:48 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0697509, 
+        "lng": -87.7878408, 
+        "tweetHandle": "@VickieIronStone"
+    }, 
+    {
+        "date": "Sun Mar 04 18:09:25 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 37.7806057, 
+        "lng": -89.07702119999999, 
+        "tweetHandle": "@Natalie85810347"
+    }, 
+    {
+        "date": "Sun Mar 04 18:05:21 +0000 2018", 
+        "keywords": "cold", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@1BlakGal"
+    }, 
+    {
+        "date": "Sun Mar 04 17:52:42 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.3914252, 
+        "lng": -87.6936384, 
+        "tweetHandle": "@MimiO2020"
+    }, 
+    {
+        "date": "Sun Mar 04 17:48:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@PAFCAUAL"
+    }, 
+    {
+        "date": "Sun Mar 04 17:47:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@blu_bone"
+    }, 
+    {
+        "date": "Sun Mar 04 17:36:36 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 42.2966861, 
+        "lng": -89.6212271, 
+        "tweetHandle": "@j_dysonn"
+    }, 
+    {
+        "date": "Sun Mar 04 17:33:32 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@CastonChris"
+    }, 
+    {
+        "date": "Sun Mar 04 17:29:54 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.3347416, 
+        "lng": -88.8612138, 
+        "tweetHandle": "@JeanLM_96"
+    }, 
+    {
+        "date": "Sun Mar 04 16:52:13 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.4133505, 
+        "lng": -89.0092741, 
+        "tweetHandle": "@LuvKimmie1"
+    }, 
+    {
+        "date": "Sun Mar 04 16:07:02 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 42.2711311, 
+        "lng": -89.0939952, 
+        "tweetHandle": "@villa_tequila"
+    }, 
+    {
+        "date": "Sun Mar 04 15:57:43 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.2586342, 
+        "lng": -87.840625, 
+        "tweetHandle": "@osxdude"
+    }, 
+    {
+        "date": "Sun Mar 04 15:24:59 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@stephschaefer11"
+    }, 
+    {
+        "date": "Sun Mar 04 15:24:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.78172130000001, 
+        "lng": -89.6501481, 
+        "tweetHandle": "@E_mily1998"
+    }, 
+    {
+        "date": "Sun Mar 04 15:23:28 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0697509, 
+        "lng": -87.7878408, 
+        "tweetHandle": "@GontarzKay"
+    }, 
+    {
+        "date": "Sun Mar 04 15:11:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Ashwee3488"
+    }, 
+    {
+        "date": "Sun Mar 04 15:08:36 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.1164204, 
+        "lng": -88.2433829, 
+        "tweetHandle": "@presidentdixon1"
+    }, 
+    {
+        "date": "Sun Mar 04 15:08:00 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 38.7292137, 
+        "lng": -87.6816927, 
+        "tweetHandle": "@palayolo"
+    }, 
+    {
+        "date": "Sun Mar 04 15:03:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HERRONSAVERY"
+    }, 
+    {
+        "date": "Sun Mar 04 15:00:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@CelesteReads"
+    }, 
+    {
+        "date": "Sun Mar 04 14:40:33 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@trinkayy"
+    }, 
+    {
+        "date": "Sun Mar 04 14:35:31 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@iosjillian"
+    }, 
+    {
+        "date": "Sun Mar 04 14:05:19 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 42.0255827, 
+        "lng": -88.17840849999999, 
+        "tweetHandle": "@michelle_bocik"
+    }, 
+    {
+        "date": "Sun Mar 04 13:58:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@AshleeCartier"
+    }, 
+    {
+        "date": "Sun Mar 04 13:54:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@nikkioregel"
+    }, 
+    {
+        "date": "Sun Mar 04 13:46:00 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.5731442, 
+        "lng": -87.7932939, 
+        "tweetHandle": "@yuckyyanko"
+    }, 
+    {
+        "date": "Sun Mar 04 13:18:36 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.1275267, 
+        "lng": -87.82895479999999, 
+        "tweetHandle": "@3timemvp"
+    }, 
+    {
+        "date": "Sun Mar 04 13:11:08 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.599479, 
+        "lng": -88.6078392, 
+        "tweetHandle": "@screamfan422"
+    }, 
+    {
+        "date": "Sun Mar 04 11:37:44 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5463655, 
+        "lng": -89.32743909999999, 
+        "tweetHandle": "@__taayyy__"
+    }, 
+    {
+        "date": "Sun Mar 04 11:20:58 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@hae_r3"
+    }, 
+    {
+        "date": "Sun Mar 04 10:14:04 +0000 2018", 
+        "keywords": "cough", 
+        "lat": 41.6689223, 
+        "lng": -87.73866190000001, 
+        "tweetHandle": "@fotos47"
+    }, 
+    {
+        "date": "Sun Mar 04 09:59:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@vanderlylegeek_"
+    }, 
+    {
+        "date": "Sun Mar 04 09:55:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@majaof2"
+    }, 
+    {
+        "date": "Sun Mar 04 08:32:18 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Chatterstick"
+    }, 
+    {
+        "date": "Sun Mar 04 07:37:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8850317, 
+        "lng": -87.7845025, 
+        "tweetHandle": "@LaurieAEakes"
+    }, 
+    {
+        "date": "Sun Mar 04 07:31:16 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9994722, 
+        "lng": -88.1450735, 
+        "tweetHandle": "@AndolinoMark"
+    }, 
+    {
+        "date": "Sun Mar 04 06:29:47 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@casssi0peia"
+    }, 
+    {
+        "date": "Sun Mar 04 06:22:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6572562, 
+        "lng": -87.68004859999999, 
+        "tweetHandle": "@IAmMrFrazier"
+    }, 
+    {
+        "date": "Sun Mar 04 05:49:05 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.3636331, 
+        "lng": -87.84479379999999, 
+        "tweetHandle": "@dirtyd_iana"
+    }, 
+    {
+        "date": "Sun Mar 04 05:43:27 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@lambo_AngelStar"
+    }, 
+    {
+        "date": "Sun Mar 04 05:22:57 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.85058739999999, 
+        "lng": -87.7936685, 
+        "tweetHandle": "@ZachBadgerhouse"
+    }, 
+    {
+        "date": "Sun Mar 04 04:53:10 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Ant_Eater90"
+    }, 
+    {
+        "date": "Sun Mar 04 04:38:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 39.8403147, 
+        "lng": -88.9548001, 
+        "tweetHandle": "@EmilyBrandt01"
+    }, 
+    {
+        "date": "Sun Mar 04 04:37:41 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@The_Eli_Grey"
+    }, 
+    {
+        "date": "Sun Mar 04 04:33:22 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.9665404, 
+        "lng": -87.6533404, 
+        "tweetHandle": "@m0mentring"
+    }, 
+    {
+        "date": "Sun Mar 04 04:33:20 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6303103, 
+        "lng": -87.85394250000002, 
+        "tweetHandle": "@jayna_nicolee"
+    }, 
+    {
+        "date": "Sun Mar 04 04:17:35 +0000 2018", 
+        "keywords": "headache", 
+        "lat": 41.9665404, 
+        "lng": -87.6533404, 
+        "tweetHandle": "@m0mentring"
+    }, 
+    {
+        "date": "Sun Mar 04 04:15:14 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@magssz_"
+    }, 
+    {
+        "date": "Sun Mar 04 04:07:33 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@crose84"
+    }, 
+    {
+        "date": "Sun Mar 04 03:53:45 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 38.7244997, 
+        "lng": -89.9572444, 
+        "tweetHandle": "@KatieHereford"
+    }, 
+    {
+        "date": "Sun Mar 04 03:48:13 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.6628119, 
+        "lng": -87.6606037, 
+        "tweetHandle": "@Joey092414"
+    }, 
+    {
+        "date": "Sun Mar 04 03:38:00 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@kcope96"
+    }, 
+    {
+        "date": "Sun Mar 04 03:33:49 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@DANNIGURL_CHI"
+    }, 
+    {
+        "date": "Sun Mar 04 03:10:04 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.9083715, 
+        "lng": -90.28484759999999, 
+        "tweetHandle": "@TaylorKennedy__"
+    }, 
+    {
+        "date": "Sun Mar 04 03:06:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@HERRONSAVERY"
+    }, 
+    {
+        "date": "Sun Mar 04 02:58:08 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.0697509, 
+        "lng": -87.7878408, 
+        "tweetHandle": "@MatthewJones23"
+    }, 
+    {
+        "date": "Sun Mar 04 02:45:52 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.5142026, 
+        "lng": -88.9906312, 
+        "tweetHandle": "@dre__ballout"
+    }, 
+    {
+        "date": "Sun Mar 04 02:42:21 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Mrz_DeVries"
+    }, 
+    {
+        "date": "Sun Mar 04 02:40:54 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 42.1539141, 
+        "lng": -88.1361888, 
+        "tweetHandle": "@alexx_m8"
+    }, 
+    {
+        "date": "Sun Mar 04 02:31:02 +0000 2018", 
+        "keywords": "cough,cold", 
+        "lat": 42.0883603, 
+        "lng": -87.98062650000001, 
+        "tweetHandle": "@G00D4BBS"
+    }, 
+    {
+        "date": "Sun Mar 04 02:28:34 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Prettymel_"
+    }, 
+    {
+        "date": "Sun Mar 04 02:27:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@sarieflores"
+    }, 
+    {
+        "date": "Sun Mar 04 02:20:58 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@katieg0tbandz"
+    }, 
+    {
+        "date": "Sun Mar 04 02:11:39 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@Jessy021297"
+    }, 
+    {
+        "date": "Sun Mar 04 02:08:48 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@imsostecksy"
+    }, 
+    {
+        "date": "Sun Mar 04 02:06:47 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@zeebotter"
+    }, 
+    {
+        "date": "Sun Mar 04 02:05:21 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.8791979, 
+        "lng": -87.8431155, 
+        "tweetHandle": "@MarianhatcherG"
+    }, 
+    {
+        "date": "Sun Mar 04 02:04:03 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@rosamund"
+    }, 
+    {
+        "date": "Sun Mar 04 01:39:33 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@susyzavla"
+    }, 
+    {
+        "date": "Sun Mar 04 01:37:41 +0000 2018", 
+        "keywords": "sick,cold", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@aliyahsthought"
+    }, 
+    {
+        "date": "Sun Mar 04 01:26:21 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jlindsz18"
+    }, 
+    {
+        "date": "Sun Mar 04 01:21:23 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@klindemann15"
+    }, 
+    {
+        "date": "Sun Mar 04 01:20:06 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 40.6331249, 
+        "lng": -89.3985283, 
+        "tweetHandle": "@Deadly_Millions"
+    }, 
+    {
+        "date": "Sun Mar 04 01:15:59 +0000 2018", 
+        "keywords": "fever", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@jproman11"
+    }, 
+    {
+        "date": "Sun Mar 04 01:12:40 +0000 2018", 
+        "keywords": "coughing", 
+        "lat": 41.931696, 
+        "lng": -87.9889556, 
+        "tweetHandle": "@Louie_Kapoohy"
+    }, 
+    {
+        "date": "Sun Mar 04 00:56:46 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.91252859999999, 
+        "lng": -88.13479269999999, 
+        "tweetHandle": "@Zingzangboom"
+    }, 
+    {
+        "date": "Sun Mar 04 00:56:38 +0000 2018", 
+        "keywords": "sick", 
+        "lat": 41.8781136, 
+        "lng": -87.6297982, 
+        "tweetHandle": "@NicoThePro"
+    }
+]
